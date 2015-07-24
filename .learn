@@ -1,0 +1,5 @@
+languages:
+  - ruby
+tags:
+  - standard library
+  - strings
