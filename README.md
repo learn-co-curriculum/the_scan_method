@@ -1,8 +1,4 @@
----
-tags: ruby, scan, command line, video
-language: ruby
-format: video
----
+
 
 # The Scan Method
 [MP4](http://flatiron-videos.s3.amazonaws.com/Ruby%20Tips/The%20Scan%20Method.mp4)
