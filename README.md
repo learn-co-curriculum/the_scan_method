@@ -8,4 +8,4 @@
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-<a href='https://learn.co/lessons/the_scan_method' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the_scan_method' title='The Scan Method'>The Scan Method</a> on Learn.co and start learning to code for free.</p>
